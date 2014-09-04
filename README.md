@@ -1,4 +1,4 @@
-WinterSite
-==========
 
-A Static Site based on WinterSmith for Coding and stuff
+# Blog
+
+The default [wintersmith](https://github.com/jnordberg/wintersmith) template
